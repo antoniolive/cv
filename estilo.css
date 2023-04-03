@@ -1,0 +1,83 @@
+body {
+    background-color: #ecede7;
+    font-family: 'TT Chocolates', sans-serif;
+    font-size: 20px;
+}
+
+img {
+    width: 100%;
+    border-radius: 5px;
+    object-fit: scale-down ;
+}
+
+#contenedor{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+#informacion-main{
+    text-align: justify;
+    font-size: 22px;
+}
+
+#titulo-main{
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding-top: 70px;
+}
+#subtitulo-main {
+    text-align: center;
+    font-weight: lighter;
+    margin-bottom: 150px;
+    margin-top: 0;
+}
+.titulo2-main {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 33px;
+
+}
+
+.titulo3-main {
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+
+.subparrafo-main {
+    margin-top: 0;
+}
+
+.h1-sidebar {
+    margin-left: 5%;
+    color: #ecede7;
+    font-size: 35px;
+}
+
+.ul-sidebar{
+    padding-left: 15%;
+}
+
+#sidebar{
+    background-color: #25352a;
+    width: 35%;
+    color: #b9b3b1 ;
+    margin: 5px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#main{
+    color: #141411;
+    width: 65%;
+    margin: 5px;
+    padding: 70px;
+}
+
+span{
+    font-weight: bold;
+}
