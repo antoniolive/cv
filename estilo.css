@@ -10,6 +10,10 @@ img {
     object-fit: scale-down ;
 }
 
+a{
+    color: #b9b3b1;
+}
+
 #contenedor{
     display: flex;
     flex-flow: row nowrap;
@@ -46,6 +50,7 @@ img {
     text-transform: uppercase;
     margin-bottom: 0;
 }
+
 
 
 .subparrafo-main {
